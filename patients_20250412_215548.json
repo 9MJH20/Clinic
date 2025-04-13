@@ -1,0 +1,14 @@
+{
+  "Patients": [
+    {
+      "Name": "vvvvvvvvvv",
+      "Gender": 0,
+      "Follow": true,
+      "age": "22",
+      "Phone": "111111111111111",
+      "address": "eeee-eeeee-eeeeeeeeeee-eeeee"
+    }
+  ],
+  "LastSaved": "2025-04-12T21:55:48.1441517+02:00",
+  "ApplicationVersion": "1.0"
+}
